@@ -1,21 +1,18 @@
-=================<<SEONGTH>>=================
-==== "I'm definitely not good at coding" ====
-====                                     ====
-====  ------------Contect-------------   ====
-==== @instagram : official.seongth       ====
-==== @kakaotalk : Seongtaeho1            ====
-==== @blog : seongth.tistory.com         ====
-=============================================
+<SEONGTH>
+"I'm definitely not good at coding"
+	
+@instagram : official.seongth
+@kakaotalk : Seongtaeho1
+@blog : seongth.tistory.com
 
------------------What I Can Do-------------------
--wow to other's code                            -
--say "I think it's perpect but it doesn't work" -
--///brain_stop///                               -
--------------------------------------------------
+What I Can Do>
+-wow to other's code                            
+-say "I think it's perpect but it doesn't work" 
 
 
-$2021
+-2021
 >>College of Engineering_Student Council_"connect" <-- https://linktr.ee/SCH.connect
+													   
 >>Namyangju Univ Student's club_"planuz" cpt of Youthcamp
 
 
