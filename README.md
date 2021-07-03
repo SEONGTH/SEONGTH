@@ -1,11 +1,11 @@
-===================<<SEONGTH>>===================
-====== "I'm definitely not good at coding" ======
-======                                     ======
-======  ------------Contect-------------   ======
-====== @instagram : official.seongth       ======
-====== @kakaotalk : Seongtaeho1            ======
-====== @blog : seongth.tistory.com         ======
-=================================================
+=================<<SEONGTH>>=================
+==== "I'm definitely not good at coding" ====
+====                                     ====
+====  ------------Contect-------------   ====
+==== @instagram : official.seongth       ====
+==== @kakaotalk : Seongtaeho1            ====
+==== @blog : seongth.tistory.com         ====
+=============================================
 
 -----------------What I Can Do-------------------
 -wow to other's code                            -
