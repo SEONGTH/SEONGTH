@@ -3,7 +3,8 @@
 	
 @instagram : official.seongth
 @kakaotalk : Seongtaeho1
-@blog : seongth.tistory.com
+	
+https://seongth.tistory.com
 
 What I Can Do>
 -wow to other's code                            
