@@ -1,11 +1,16 @@
 <SEONGTH>
 "I'm definitely not good at coding"
+"컴맹 25년차"
+
 	
 @instagram : official_seongth
 @kakaotalk : Seongtaeho1
 	
 https://seongth.tistory.com
 
+
+CEO of <<TeamBingo>>
+SCHUniv, CSNE
 
 
 
