@@ -1,6 +1,6 @@
 <SEONGTH>
 "I'm definitely not good at coding"
-"컴맹 25년차"
+"컴맹 27년차"
 
 	
 @instagram : official_seongth
