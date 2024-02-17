@@ -9,10 +9,6 @@
 https://seongth.tistory.com
 
 
-CEO of <<TeamBingo>>
-SCHUniv, CSNE
-
-
 
 
 
